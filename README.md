@@ -1,4 +1,4 @@
-# 📅 Schema Vecka 19: Next.js Individual Project
+# 📅 Schema Vecka 19: Färdigställande och presentation
 
 ---
 
