@@ -114,7 +114,7 @@ Vi färdigställer dokumentation och förbereder en kort, stabil demo. Gå gärn
 
 ## 📅 Fredag: Presentation
 
-Presentationerna sker i halvklass.
+Presentationerna sker i halvklass på förmiddagen.
 
 Deltagaren delar projektlänk och eventuell deployment, visar funktionaliteten och beskriver sina viktigaste val och lärdomar.
 
