@@ -116,16 +116,16 @@ Vi färdigställer dokumentation och förbereder en kort, stabil demo. Gå gärn
 
 Deltagaren delar projektlänk och eventuell deployment, visar funktionaliteten och beskriver sina viktigaste val och lärdomar.
 
-### Presentationen bör ta upp:
+### Presentationen/produkt-demon bör ta upp:
 
 - Problem och målgrupp
-- Projektets viktigaste funktion
+- Projektets viktigaste funktion (kärnflödet)
 - Centrala tekniska val
 - Hur scope förändrades
 - Hur AI användes och kontrollerades, om AI användes
 - Största lärdomen
-- Vad nästa steg skulle vara
+- (Vad nästa steg skulle vara)
 
-Fokus ligger på produkt och lärdomar, inte på en lång kodgenomgång.
+Fokus ligger på produkt och lärdomar, **ingen kod ska visas**, däremot kan ni prata om hur ni löste saker under presentationen.
 
 ---
