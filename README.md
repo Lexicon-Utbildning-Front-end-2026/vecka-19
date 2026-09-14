@@ -131,3 +131,7 @@ Deltagaren delar projektlänk och eventuell deployment, visar funktionaliteten o
 Fokus ligger på produkt och lärdomar, **ingen kod ska visas**, däremot kan ni prata om hur ni löste saker under presentationen.
 
 ---
+
+Mötena för redovisninagarna startar kl 9.00 (OBS! Tidigare än vanligt!)
+
+Varje person har ca 10 minuter för sin redovisning.
