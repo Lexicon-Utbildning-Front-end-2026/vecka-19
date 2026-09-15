@@ -114,7 +114,7 @@ Vi färdigställer dokumentation och förbereder en kort, stabil demo. Gå gärn
 
 ## 📅 Fredag: Presentation
 
-Presentationerna sker i halvklass på förmiddagen. Mötena för presentationerna startar kl 9.00 (OBS! Tidigare än vanligt!)
+Presentationerna sker i halvklass på förmiddagen. Mötena för **presentationerna startar kl 9.00** (OBS! Tidigare än vanligt!)
 
 Varje person har mellan ca **5-10 minuter** för sin presentation, inte kortare eller längre. Kortare frågor kan tas under eller efter varje redovisning i mån av tid.
 
