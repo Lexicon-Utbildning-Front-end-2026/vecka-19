@@ -132,6 +132,6 @@ Fokus ligger på produkt och lärdomar, **ingen kod ska visas**, däremot kan ni
 
 ---
 
-Mötena för redovisninagarna startar kl 9.00 (OBS! Tidigare än vanligt!)
+Mötena för presentationerna startar kl 9.00 (OBS! Tidigare än vanligt!)
 
-Varje person har ca 10 minuter för sin redovisning.
+Varje person har ca 10 minuter för sin presentation.
