@@ -116,7 +116,7 @@ Vi färdigställer dokumentation och förbereder en kort, stabil demo. Gå gärn
 
 Presentationerna sker i halvklass på förmiddagen. Mötena för presentationerna startar kl 9.00 (OBS! Tidigare än vanligt!)
 
-Varje person har mellan ca 5-10 minuter för sin presentation, inte kortare eller längre. Kortare frågor kan tas under eller efter varje redovisning i mån av tid.
+Varje person har mellan ca **5-10 minuter** för sin presentation, inte kortare eller längre. Kortare frågor kan tas under eller efter varje redovisning i mån av tid.
 
 **Deltagaren delar projektlänk** och eventuell deployment, visar funktionaliteten och beskriver sina viktigaste val och lärdomar. **Ingen kod ska visas**, däremot kan ni prata om hur ni löste saker under presentationen (t ex om ni gjort client components någonstans eller om ni valt en specifik databas, tredjeparts bibliotek eller dylikt).
 
