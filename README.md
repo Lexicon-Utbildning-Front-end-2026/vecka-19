@@ -114,9 +114,11 @@ Vi färdigställer dokumentation och förbereder en kort, stabil demo. Gå gärn
 
 ## 📅 Fredag: Presentation
 
-Presentationerna sker i halvklass på förmiddagen.
+Presentationerna sker i halvklass på förmiddagen. Mötena för presentationerna startar kl 9.00 (OBS! Tidigare än vanligt!)
 
-Deltagaren delar projektlänk och eventuell deployment, visar funktionaliteten och beskriver sina viktigaste val och lärdomar.
+Varje person har mellan ca 5-10 minuter för sin presentation, inte kortare eller längre. Kortare frågor kan tas under eller efter varje redovisning i mån av tid.
+
+**Deltagaren delar projektlänk** och eventuell deployment, visar funktionaliteten och beskriver sina viktigaste val och lärdomar. **Ingen kod ska visas**, däremot kan ni prata om hur ni löste saker under presentationen (t ex om ni gjort client components någonstans eller om ni valt en specifik databas, tredjeparts bibliotek eller dylikt).
 
 ### Presentationen/produkt-demon bör ta upp:
 
@@ -128,10 +130,8 @@ Deltagaren delar projektlänk och eventuell deployment, visar funktionaliteten o
 - Största lärdomen
 - (Vad nästa steg skulle vara)
 
-Fokus ligger på produkt och lärdomar, **ingen kod ska visas**, däremot kan ni prata om hur ni löste saker under presentationen.
+
 
 ---
 
-Mötena för presentationerna startar kl 9.00 (OBS! Tidigare än vanligt!)
 
-Varje person har ca 10 minuter för sin presentation.
